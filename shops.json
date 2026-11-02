@@ -1,0 +1,10 @@
+{
+  "threshold_percent": 15,
+  "shops": [
+    {"name": "Simshop", "domain": "simshop.com", "currency": "USD"},
+    {"name": "6Sigma Simracing", "domain": "6sigmasimracing.com", "currency": "USD"},
+    {"name": "Focus Simracing", "domain": "focussimracing.com", "currency": "USD"},
+    {"name": "Moza (US)", "domain": "us.mozaracing.com", "currency": "USD"},
+    {"name": "Moza (EU)", "domain": "eu.mozaracing.com", "currency": "EUR"}
+  ]
+}
